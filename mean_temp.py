@@ -10,7 +10,7 @@
 """
 
 # Assign variable x the value for the previous day's high temperature
-x = 86
+x = 94
 
 # Assign variable y the value for the previous day's low temperature
 y =  61
